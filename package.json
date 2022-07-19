@@ -1,0 +1,38 @@
+
+{
+  "name": "jonazbot-api",
+  "version": "1.0.0",
+  "description": "Myyyyyyyy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "JonazBR",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonazBR/stickers-pack-web.git"
+  },
+  "keywords": [
+    "api",
+    "bot",
+    "whatsapp",
+    "downloader",
+    "discord",
+    "bot",
+    "discord"
+  ],
+  "bugs": {
+    "url": "https://github.com/JonazBR/JonazBOT-API/issues"
+  },
+  "homepage": "https://github.com/JonazBR/JonazBOT-API#readme"
+}
